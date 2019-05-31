@@ -1,5 +1,5 @@
 # Cookiecutter Machine Learning
-*a simple project template for model-centric machine learning*
+a simple project template for model-centric machine learning
 
 ## Why Cookiecutter Machine Learning?
 
