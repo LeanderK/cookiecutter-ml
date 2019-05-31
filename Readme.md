@@ -1,7 +1,7 @@
 # Cookiecutter Machine Learning
 a simple project template for model-centric machine learning
 
-## How To: pip install cookiecutter
+## How To: Set Up Cookiecutter Machine Learning
 It's easy!
 ```python
 pip install cookiecutter
