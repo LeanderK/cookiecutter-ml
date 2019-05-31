@@ -13,6 +13,9 @@ Project Organization
     |                         It is recommended to think about a substructure depending on the nature
     |                         of the project. For example, one could groupy the experiments by
     |                         week/month/dataset.
+    |                         Additionaly, keeping all the experiment-definitions immutable is
+    |                         strongly encouraged. One often wants revisit experiments months later
+    |                         and rebuilding them from scratch is not always possible
     |
     ├── notebooks          <- The place for all your jupyter-notebooks. If the project involves a
     |                         lot of notebooks it is recommended to adopt a similiar structure to
