@@ -30,7 +30,9 @@ But still, it is not possible to come up with a perfect structure for every proj
     |                         week/month/dataset.
     |                         Additionaly, keeping all the experiment-definitions immutable is
     |                         strongly encouraged. One often wants revisit experiments months later
-    |                         and rebuilding them from scratch is not always possible
+    |                         and rebuilding them from scratch is not always possible.
+    |                         The option to initialize the experiments folder with a date or dataset
+    |                         based structure is provided by the cookiecutter.
     |
     ├── notebooks          <- The place for all your jupyter-notebooks. If the project involves a
     |                         lot of notebooks it is recommended to adopt a similiar structure to
